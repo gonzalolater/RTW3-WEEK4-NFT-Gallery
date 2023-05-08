@@ -26,4 +26,10 @@ yarn create next-app --example with-tailwindcss with-tailwindcss-app
 pnpm create next-app --example with-tailwindcss with-tailwindcss-app
 ```
 
+------------------------------------------------------------------------------------------------------------------------------
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+
+------------------------------------------------------------------------------------------------------------------------------
+# NFT
+
+https://user-images.githubusercontent.com/42863568/236947723-9f751b2c-1d32-4314-bed4-604fed37e5b8.mp4
